@@ -39,7 +39,7 @@ export const App = () => {
   };
 
   return (
-    <div className={css.App}>
+    <div className={css.container}>
       <Section title="Please leave feedback">
         <FeedbackOptions
           options={feedbackNames}
