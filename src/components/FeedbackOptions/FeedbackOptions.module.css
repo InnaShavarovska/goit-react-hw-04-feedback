@@ -1,0 +1,22 @@
+.btn {
+  font-size: 20px;
+  text-decoration: none;
+  cursor: pointer;
+  display: block;
+  width: 100px;
+  font-weight: 500;
+  margin: 20px auto;
+  text-align: center;
+  padding: 2px 5px;
+
+  color: #000000;
+
+  border-radius: 5px;
+  border-color: #000000;
+
+  background-color: goldenrod;
+}
+
+.btn:hover {
+  background-color: green;
+}
